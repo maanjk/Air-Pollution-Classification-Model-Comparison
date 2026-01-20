@@ -3,8 +3,8 @@
 This project classifies air pollution levels as **High** or **Low** using sensor data from China (2015-2025). It trains and compares three machine learning models: **Support Vector Machine (SVM)**, **Logistic Regression**, and **Decision Tree**.
 
 ## 🚀 Live Demo
-[Click here to view the Streamlit App]((https://air-pollution-classification-model-comparison.streamlit.app/))  
-*(Replace the link above with your actual deployed app link)*
+[Click here to view the Streamlit App]([https://air-pollution-classification-model-comparison.streamlit.app/])  
+
 
 ## 📊 Models Used
 *   **SVM (Support Vector Machine):** Good for high-dimensional boundaries.
